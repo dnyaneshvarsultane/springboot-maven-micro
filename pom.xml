@@ -37,5 +37,11 @@
 			</plugin>
 		</plugins>
 	</build>
+<server>
+  <id>sonarqube</id>
+  <url>https://your-sonarqube-server-url.com</url>
+  <username>your-sonarqube-server-login</username>
+  <password>your-sonarqube-server-password</password>
+</server>
 
 </project>
