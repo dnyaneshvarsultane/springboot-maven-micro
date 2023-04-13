@@ -37,11 +37,5 @@
 			</plugin>
 		</plugins>
 	</build>
-<server>
-  <id>sonarqube</id>
-  <url>http://3.110.83.116:9000</url>
-  <username>admin</username>
-  <password>'</password>
-</server>
 
 </project>
